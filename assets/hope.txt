@@ -1,0 +1,14 @@
+scene hope_front_door.jpg
+ :*KNOCK KNOCK KNOCK*
+ : You hear pots and pans clanking as someone approaches the door.
+scene hope_room.jpg
+Hope: Hi! I was just about to take this batch of cookies out of the oven.
+Azriel: Hope! Mallory's missing! I need help to find her!
+Hope: Oh no! Let me finish packaging these cookies and then I'll help you.
+Azriel: Where are you sending them?
+Hope: I saw someone's address in the background of a photo on Facebook
+Hope: and I just really thought they deserved some cookies.
+Azriel: ...
+Hope: What? That's just the kind of person I am.
+Hope: It's only gonna take a minute to package up these cookies.
+ :Do you want to help Hope package the cookies?

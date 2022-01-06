@@ -1,0 +1,13 @@
+ :Welcome. (click or press enter to continue...)
+ :In the near future, the friend group moved into a commune together.
+ :(Some liked to call it a cul-de-sac, to make it sound less cultish...
+ :...but tbh it wasn't fooling anyone).
+ :Everything was happy until they appeared. Those only heard about in fairytales.
+ :Joann and Michael. The crafting masters of legend.
+ :Having heard of Mallory's great skill, they came in the night and took her away.
+ :Now it's up to you Azriel. With the help of your friends, you must save Mallory.
+ :Good luck.
+ : ...
+ : ... . . .
+Azriel: Well this sucks.
+ :Which friend would you like to visit first?

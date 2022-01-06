@@ -1,0 +1,10 @@
+scene emily_front_door.jpg
+ : *KNOCK KNOCK KNOCK*
+ : *You hear someone scrambling to open the door, audibly upset*
+scene emily_house.jpg
+show emily_sad
+Emily: I'm so upset! I ruined everything!!!
+Azriel: I'm sure it's not that bad but right now I-
+Emily: No it is that bad! There's wine everywhere. I bumped into the cabinet and-
+ : *she sobs, unable to finish her sentence*
+ : Do you want to help Emily?

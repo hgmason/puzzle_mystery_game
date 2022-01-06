@@ -1,0 +1,15 @@
+scene tim_front_door.jpg
+ :*KNOCK KNOCK KNOCK*
+ : Tim opens the door and invites you inside.
+scene tim_room.jpg
+Tim: Azriel! How good to see you today.
+Azriel: Tim! Mallory's gone missing! I need your help to find her!
+Tim: Oh no! Let's leave right away and start looking!
+ :Tim runs to the door as you notice a giant pile of homework.
+Azriel: Tim...do you have time to help me look for Mallory?
+Tim: Sure I do. I just have 7 group projects, a few final exams and...
+Tim: ...a group project where we have to make a covid vaccine.
+Tim: So it's par for the course, I'll be fine!
+Azriel: Tim! You need to prioritize. You don't have time to spare!
+Tim: Maybe you're right, let me check my calendar.
+ :Do you want to help Tim find time to spare on his calendar?

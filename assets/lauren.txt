@@ -1,0 +1,12 @@
+scene lauren_front_door.jpg
+ :*KNOCK KNOCK KNOCK*
+ : Lauren opens the door and invites you inside.
+scene lauren_room.jpg
+show lauren_surprised
+Lauren: You interrupted me in the middle of my game!
+Lauren: I had almost finished my tasks.
+Azriel: I'm sorry but there's an emergen--
+show lauren_gaming
+Lauren: Wait the game's restarted...
+Lauren: ...and I'm the imposter! Hold on I gotta win this first.
+: It seems like Lauren's busy right now. Do you want to help her win?

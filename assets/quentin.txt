@@ -1,0 +1,15 @@
+scene quentin_front_door.jpg
+ :*KNOCK KNOCK KNOCK*
+ :No one answers, but the door appears unlocked, so you enter.
+scene quentin_room.jpg
+show quentin_gaming
+Azriel: Quentin! You've got to help me - Mallory's gone missing!
+Quentin: ... ... ...
+Azriel: I woke up this morning and she was just gone and--
+Azriel: ...
+Quentin: ...
+Azriel: You can't hear me can you.
+ :Very observant.
+ :Quentin is too wrapped up in his videogame to notice you right now.
+ :Maybe if you cut the power, he'd pay attention?
+ :Do you want to cut the power?

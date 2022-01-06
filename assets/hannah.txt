@@ -1,0 +1,10 @@
+scene hannah_front_door.jpg
+ :The code works! The door opens.
+scene hannah_room.jpg
+show hannah_dancing
+ :Hannah's jamming out to music, so she didn't hear you knocking.
+show emily_concerned
+Emily: Her ult group just had a comeback today, so we'll have to get her attention.
+Azriel: Okay, but how do we do that?
+Emily: There are some photocards here on her table! We need to find her bias!
+ :Do you want to try to get Hannah's attention?
